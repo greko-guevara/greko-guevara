@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @greko-guevara I am a Professor in EARTH University www.earth.ac.cr
 - 👀 I’m interested in drip irrigation & hydraulic models 
-- 🌱 I’m currently reseaching in how to conect software with designing tools in agriculture.
+- 🌱 I’m currently reseaching in how to connect software with designing tools in agriculture.
 - 📫 my e-mail is gguevara@earh.ac.cr 
--  
